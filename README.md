@@ -21,6 +21,8 @@ This project was inspired by the following projects:
 * https://mycity.maps.arcgis.com/apps/instant/basic/index.html?appid=820ec3acdbcb41d29fc2a7d4062c0820
 * https://simonwillison.net/2020/Oct/9/git-scraping/
 
+The favicon and app manifest icon are designed by [www.freepik.com](https://www.freepik.com/)
+
 ***
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
