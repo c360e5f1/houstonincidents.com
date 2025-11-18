@@ -1,4 +1,4 @@
-# Houston Incidents
+# Houston Incidents Map
 
 [![Scrape, build, and deploy](https://github.com/c360e5f1/houstonincidents.com/actions/workflows/main.yaml/badge.svg)](https://github.com/c360e5f1/houstonincidents.com/actions/workflows/main.yaml)
 
