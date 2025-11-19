@@ -46,6 +46,7 @@
       }
     }).setView([29.762778, -95.383056], 12);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright" target="_new">OpenStreetMap</a> | <a href="https://github.com/c360e5f1/houstonincidents.com" target=_new">GitHub</a> | poots'
+      maxZoom: 19,
+      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright" target="_new">OpenStreetMap</a> | <a href="https://github.com/c360e5f1/houstonincidents.com" target=_new">GitHub</a> | poots'
     }).addTo(map);
+    map.locate({setView: true, maxZoom: 16});
