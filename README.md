@@ -13,6 +13,8 @@ Live demo at https://houstonincidents.com
 This project uses several external scripts and resources:
 * https://www.openstreetmap.org/
 * https://leafletjs.com/
+* https://github.com/cherniavskii/Leaflet.DoubleTapDrag
+* https://github.com/cherniavskii/Leaflet.DoubleTapDragZoom
 
 This project was inspired by the following projects:
 * https://github.com/adolph/getIncidentsGit
