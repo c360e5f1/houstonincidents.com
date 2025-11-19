@@ -42,7 +42,7 @@
       zoomControl: false,
       doubleTapDragZoom: 'center',
       doubleTapDragZoomOptions: {
-        reverse: false,
+        reverse: true,
       }
     }).setView([29.762778, -95.383056], 12);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
