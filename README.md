@@ -2,7 +2,7 @@
 
 [![Scrape, build, and deploy](https://github.com/c360e5f1/houstonincidents.com/actions/workflows/main.yaml/badge.svg)](https://github.com/c360e5f1/houstonincidents.com/actions/workflows/main.yaml)
 
-Web page for incidents involving Houston Fire and Houston Police. Works on mobile and desktop. ~~Includes manifest as a progressive web app.~~
+Web page for incidents involving Houston Fire and Houston Police. Works on mobile and desktop. 
 
 ```main.sh``` runs as a bash script to pull JSON data from the Houston ArcGIS server. The JSON data is then parsed for relevant information, like the latitude/longitude, incident information, response type, etc, and plots it on a basic HTML page using OpenStreetMaps and Leaflet.
 
